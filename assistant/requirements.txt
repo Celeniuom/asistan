@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+pywhatkit
+DateTime
+wikipedia
+pyjokes
+pycopy-webbrowser
